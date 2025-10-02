@@ -37,8 +37,8 @@ See `RAYA-REF-Generate-Yearly-Report_Dipatcher/Documentation/REFramework Documen
 ### Process Videos
 
 - Dipatcher process: 
-![Dipatcher Process](Generate-Yearly-Report Dipatcher.gif)
-- Performer process: ![Performer Process](Generate-Yearly-Report Perofmer.gif)
+![Dipatcher Process](Generate-Yearly-Report%20Dipatcher.gif)
+- Performer process: ![Performer Process](Generate-Yearly-Report%20Perofmer.gif)
 
 ---
 For any configuration, refer to the `Config.xlsx` file in the `Data` folder of each project.
