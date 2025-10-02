@@ -36,7 +36,8 @@ See `RAYA-REF-Generate-Yearly-Report_Dipatcher/Documentation/REFramework Documen
 
 ### Process Videos
 
-- Dipatcher process: ![Dipatcher Process](Generate-Yearly-Report Dipatcher.gif)
+- Dipatcher process: 
+![Dipatcher Process](Generate-Yearly-Report Dipatcher.gif)
 - Performer process: ![Performer Process](Generate-Yearly-Report Perofmer.gif)
 
 ---
